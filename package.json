@@ -5,7 +5,8 @@
     "@biomejs/biome": "^1.9.4",
     "@playwright/experimental-ct-react": "^1.52.0",
     "@playwright/test": "^1.52.0",
-    "@types/node": "^22.15.18"
+    "@types/node": "^22.15.18",
+    "typescript": "^5.8.3"
   },
   "scripts": {
     "lint": "biome check ./src",

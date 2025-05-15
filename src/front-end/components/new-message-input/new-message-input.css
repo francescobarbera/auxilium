@@ -1,0 +1,10 @@
+.new-message-input {
+	display: flex;
+	gap: 8px;
+	margin-top: 24px;
+	height: 20%;
+	width: 60%;
+}
+.new-message-input .input-wrapper {
+	flex: 1;
+}

@@ -1,0 +1,17 @@
+.message {
+	background-color: #f5f5f5;
+	border-radius: 8px;
+	padding: 8px;
+	border: 1px solid #ccc;
+	max-width: 80%;
+}
+
+.human {
+	margin-right: 16px;
+	justify-self: end;
+}
+
+.bot {
+	margin-left: 16px;
+	justify-self: start;
+}

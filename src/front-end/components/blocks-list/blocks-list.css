@@ -1,0 +1,9 @@
+.blocks-list {
+	margin: 16px;
+	display: grid;
+	width: 100%;
+	height: 80%;
+	gap: 16px;
+	overflow-y: auto;
+	align-content: start;
+}
